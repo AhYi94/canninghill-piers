@@ -240,8 +240,8 @@
                     >registered an appointment here</NuxtLink
                   >
                   will receive Best Developer Pricing and COMMISION are
-                  NON-payable. Please be advise that units for sale at Normanton
-                  Park are on first come first serve basis. Reservations of unit
+                  NON-payable. Please be advise that units for sale at 
+                  One Bernam are on first come first serve basis. Reservations of unit
                   is only up to 2 hours and subjected to management’s
                   authorization.
                 </p>

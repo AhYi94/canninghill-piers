@@ -2,12 +2,12 @@
   <div>
     <div class="py-12 select-none bg-theme-700">
       <div class="text-xl font-semibold text-center text-white sm:text-4xl">
-        360 Degree View Site Plan
+        Virtual Tour
       </div>
     </div>
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
-        <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Site Plan</h3>
+        <h3 class="text-xl font-semibold sm:text-2xl text-center">Drone Shot - Site Plan</h3>
         <iframe 
           width="1100" 
           height="600" 
@@ -18,7 +18,7 @@
           allowfullscreen>
           </iframe>
           <br><br>
-          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Standard Room One</h3>
+          <h3 class="text-xl font-semibold sm:text-2xl text-center">Drone Shot - Standard Room One</h3>
         <iframe 
           width="1100" 
           height="600" 
@@ -29,7 +29,7 @@
           allowfullscreen>
           </iframe>
           <br><br>
-          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Standard Room Two</h3>
+          <h3 class="text-xl font-semibold sm:text-2xl text-center">Drone Shot - Standard Room Two</h3>
         <iframe 
           width="1100" 
           height="600" 
@@ -40,7 +40,7 @@
           allowfullscreen>
           </iframe>
           <br><br>
-          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Type BS2</h3>
+          <h3 class="text-xl font-semibold sm:text-2xl text-center">Drone Shot - Type BS2</h3>
         <iframe 
           width="1100" 
           height="600" 
@@ -51,7 +51,7 @@
           allowfullscreen>
           </iframe>
           <br><br>
-          <h3 class="text-xl font-semibold sm:text-2xl">One Bernam Drone Shot - Type BS4</h3>
+          <h3 class="text-xl font-semibold sm:text-2xl text-center">Drone Shot - Type BS4</h3>
         <iframe 
           width="1100" 
           height="600" 

@@ -125,7 +125,7 @@
                       hover:bg-theme-100
                     "
                   >
-                    360 Degree View Site Plan
+                    Virtual Tours
                   </NuxtLink>
                 </li>
                 <li>

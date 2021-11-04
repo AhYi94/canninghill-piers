@@ -232,7 +232,7 @@
                             <NuxtLink
                               to="/360-degree-view-site-plan"
                               class="inline-block w-full"
-                              >360 Degree View Site Plan</NuxtLink
+                              >Virtual Tours</NuxtLink
                             >
                           </li>
                           <li

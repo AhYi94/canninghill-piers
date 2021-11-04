@@ -8,7 +8,7 @@
     <section>
       <div class="max-w-6xl px-4 py-12 mx-auto space-y-6">
           <ImageModal :images-prop="imageUrl" />
-        </div>
+        
         <section class="py-6">
           <NuxtLink
             to="/video"
@@ -23,11 +23,11 @@
               transition
               rounded
               sm:px-0
-              hover:bg-theme-900
-              bg-theme-700
+              hover:bg-brown-900
+              bg-brown-700
             "
           >
-            Continue To One Bernam Video
+            Continue To The One Bernam Video
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -43,6 +43,7 @@
               ></path></svg
           ></NuxtLink>
         </section>
+        </div>
     </section>
     <BookAppointment />
   </div>

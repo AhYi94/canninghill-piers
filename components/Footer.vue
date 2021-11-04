@@ -118,8 +118,8 @@
                     stroke-linejoin="round"
                   ></path>
                 </svg>
-                <a href="mailto:sales@normantonparkcondos.com.sg"
-                  >sales@onebernam.com.sg</a
+                <a href="mailto:sales@onebernamofficial.com.sg"
+                  >sales@onebernamofficial.com.sg</a
                 >
               </li>
             </ul>

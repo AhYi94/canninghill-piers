@@ -40,7 +40,7 @@
               bg-theme-700
             "
           >
-            Continue To One Benam 360 View 
+            Continue To One Benam Virtual Tours
             <svg
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
