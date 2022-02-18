@@ -317,7 +317,7 @@ export default {
 
       if (!this.errors.length) {
         // eslint-disable-next-line
-        Email.send({
+          Email.send({
           Host: 'smtp.gmail.com',
           Username: process.env.EMAIL_USER,
           Password: process.env.EMAIL_API,
